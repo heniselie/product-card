@@ -1,0 +1,25 @@
+body {
+    background-color: yellow;
+}
+
+nav {
+    display: flex; /* or inline-flex */
+    justify-content: space-between;
+    align-items: center;
+
+  }
+.link-container a {
+    margin: 1em;
+}
+
+.puppy-container img {
+  width:500px;
+  flex-wrap:  wrap-reverse;
+  display: flex;
+}
+
+.puppy-container {
+  
+  flex-wrap: wrap;
+  display: flex;
+}
