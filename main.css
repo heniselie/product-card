@@ -119,7 +119,7 @@ body {
     margin: auto;
     margin-top: 1%;
     border-bottom: solid  1px lightblue;
-    font-size: 30px;
+    font-size: 25px;
     padding: auto;
 
     
@@ -161,5 +161,8 @@ body {
     font-weight: bold;
     font-size: 12px;
   }
-
+.h4 {
+  text-align: center;
+  font-size: 16px;
+}
  
